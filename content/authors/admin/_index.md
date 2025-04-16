@@ -12,12 +12,12 @@ social:
   - display:
       header: false
     link: mailto:ciro.chiappini@kcl.ac.uk
-    icon_pack: fas
+    icon_pack: ai
     icon: at-symbol
   - display:
       header: false
     link: https://uk.linkedin.com/in/cchiappini
-    icon_pack: fas
+    icon_pack: ai
     icon: at-symbol
 organizations:
   - name: King's College London
