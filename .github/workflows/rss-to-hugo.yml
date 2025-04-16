@@ -22,7 +22,7 @@ jobs:
       run: pip install feedparser
 
     - name: Run RSS import script
-      run: python /twitter_rss_to_hugo.py
+      run: python scripts/twitter_rss_to_hugo.py
 
     - name: Commit and push changes
       run: |
