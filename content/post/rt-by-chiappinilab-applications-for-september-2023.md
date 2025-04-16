@@ -1,7 +1,0 @@
----
-title: "RT by @ChiappiniLab: Applications for September 2023 fully funded iCASE Studentships with @KingsCollegeLon MRC DTP are now OPEN. Apply here: kcl-mrcdtp.com #PhD #Apply #London #Science #Studentships #iCASE #BiomedicalSciences"
-date: Fri, 03 Mar 2023 16:36:51 GMT
-summary: "<blockquote class="twitter-tweet"><p dir="ltr" lang="en">Applications for September 2023 fully funded iCASE Studentships with <a href="https://twitter.com/KingsCollegeLon?ref_src=twsrc%5Etfw">@KingsCollegeLon</a> MRC DTP are now OPEN.<br /><br />Apply here: <a href="https://t.co/D82X7rbejz">https://t.co/D82X7rbejz</a><a href="https://twitter.com/hashtag/PhD?src=hash&amp;ref_src=twsrc%5Etfw">#PhD</a> <a href="https://twitter.com/hashtag/Apply?src=hash&amp;ref_src=twsrc%5Etfw">#Apply</a> <a href="https://twitter.com/hashtag/London?src=hash&amp;ref_src=twsrc%5Etfw">#London</a> <a href="https://twitter.com/hashtag/Science?src=hash&amp;ref_src=twsrc%5Etfw">#Science</a> <a href="https://twitter.com/hashtag/Studentships?src=hash&amp;ref_src=twsrc%5Etfw">#Studentships</a> <a href="https://twitter.com/hashtag/iCASE?src=hash&amp;ref_src=twsrc%5Etfw">#iCASE</a> <a href="https://twitter.com/hashtag/BiomedicalSciences?src=hash&amp;ref_src=twsrc%5Etfw">#BiomedicalSciences</a> <a href="https://t.co/xeXms5ADCp">pic.twitter.com/xeXms5ADCp</a></p>— KCL MRC DTP (@KCL_MRCDTP) <a href="https://twitter.com/KCL_MRCDTP/status/1631695138857549826?ref_src=twsrc%5Etfw">March 3, 2023</a></blockquote>"
----
-
-[View on Twitter](https://x.com/KCL_MRCDTP/status/1631695138857549826)
