@@ -10,7 +10,7 @@ sections:
       title: |
         BioNano Engineering
       image:
-        filename: cell on nanoneedles small.jpeg
+        filename: assets/media/nanoneedles_1.jpg
       text: |
        for Gene Therapy and Precision Diagnostics.
   
