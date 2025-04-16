@@ -1,7 +1,0 @@
----
-title: "Spatial biology on nanoneedles! Our collaboration developed a new approach to map brain tissues without destroying them for cancer molecular diagnostics. @AssafZaritsky @The_SERIOus_Dr @BergholtLab @aljamal_khuloud @CCRB27 @WellcomeLeap @ERC_Research biorxiv.org/content/10.110…"
-date: Tue, 14 Mar 2023 09:11:34 GMT
-summary: "<blockquote class="twitter-tweet"><p dir="ltr" lang="en">Spatial biology on nanoneedles! Our collaboration developed a new approach to map brain tissues without destroying them for cancer molecular diagnostics.<a href="https://twitter.com/AssafZaritsky?ref_src=twsrc%5Etfw">@AssafZaritsky</a> <a href="https://twitter.com/The_SERIOus_Dr?ref_src=twsrc%5Etfw">@The_SERIOus_Dr</a> <a href="https://twitter.com/BergholtLab?ref_src=twsrc%5Etfw">@BergholtLab</a> <a href="https://twitter.com/aljamal_khuloud?ref_src=twsrc%5Etfw">@aljamal_khuloud</a> <a href="https://twitter.com/CCRB27?ref_src=twsrc%5Etfw">@CCRB27</a> <a href="https://twitter.com/WellcomeLeap?ref_src=twsrc%5Etfw">@WellcomeLeap</a> <a href="https://twitter.com/ERC_Research?ref_src=twsrc%5Etfw">@ERC_Research</a> <a href="https://t.co/SeuJ0fvQnl">https://t.co/SeuJ0fvQnl</a></p>— Chiappini Lab (@ChiappiniLab) <a href="https://twitter.com/ChiappiniLab/status/1635569349535703042?ref_src=twsrc%5Etfw">March 14, 2023</a></blockquote>"
----
-
-[View on Twitter](https://x.com/ChiappiniLab/status/1635569349535703042)
