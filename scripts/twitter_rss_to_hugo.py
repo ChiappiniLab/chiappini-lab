@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 
 FEED_URL = 'https://rss.app/feeds/E9RaLLqffEhiqsbk.xml'
-OUTPUT_DIR = 'content/news/'  # Change this to match your structure
+OUTPUT_DIR = 'content/post/'  # Change this to match your structure
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
