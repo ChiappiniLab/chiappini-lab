@@ -1,77 +1,41 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Ciro Chiappini
+role: Senior Lecturer in BioNano Engineering
+avatar_filename: ciro-chiappini-2-large-copy.jpeg
+bio: I develop nanomaterials to manipulate cells for gene therapy and precision
+  diagnostics
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
+social:
+  - display:
+      header: false
+    link: mailto:ciro.chiappini@kcl.ac.uk
+    icon_pack: fas
+    icon: at-symbol
+  - display:
+      header: false
+    link: https://uk.linkedin.com/in/cchiappini
+    icon_pack: fas
+    icon: at-symbol
+organizations:
+  - name: King's College London
+    url: https://www.kcl.ac.uk/dentistry
+  - name: London Centre for Nanotechnology
+    url: https://www.london-nano.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD In Engineering
+      institution: University of Texas at Austin
+    - course: MSci in Physics
+      institution: Università degli Studi di Milano
+superuser: true
 user_groups:
   - Researchers
+last_name: Bighetti
+highlight_name: false
+first_name: Nelson
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ciro Chiappini is Senior Lecturer in Nanomaterials and Biointerfaces at King’s College London. His research combines nanotechnology, bioengineering and cell biology to develop nanomaterials for advanced therapies and spatial biology. He has developed new approaches for topical gene therapy to the eye and skin for the treatment of inherited diseases; advanced regenerative medicine for periodontal disease; and developed new approaches for longitudinal sampling in spatial biology . His research has been funded by the ERC Starting Grant, UKRI, CureEB  and Fight for Sight. In 2021 Dr. Chiappini was recognised as emerging biomaterial scientist by the Royal Society of Chemistry.  He was Marie Curie Fellow and Newton International Fellow at Imperial College London from 2011 until 2016, and holds a doctorate from the University of Texas at Austin. Dr. Chiappini authored more than 50 publications with over 7000 citations and 4 international patents.
