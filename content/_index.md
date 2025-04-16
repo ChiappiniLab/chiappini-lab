@@ -10,7 +10,7 @@ sections:
       title: |
         BioNano Engineering
       image:
-        filename: assets/media/nn_test.jpg
+        filename: nn_test.jpg
       text: |
        for Gene Therapy and Precision Diagnostics.
   
