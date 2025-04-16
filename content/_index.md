@@ -8,13 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        Chiappini Lab
+        BioNano Engineering
       image:
         filename: cell on nanoneedles small.jpeg
       text: |
-        <br>
-        
-        BioNano Engineering for Gene Therapy and Precision Diagnostics.
+       for Gene Therapy and Precision Diagnostics.
   
   - block: collection
     content:
