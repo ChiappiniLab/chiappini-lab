@@ -12,8 +12,8 @@ social:
   - display:
       header: false
     link: mailto:ciro.chiappini@kcl.ac.uk
-    icon_pack: ai
-    icon: at-symbol
+    icon_pack: fas
+    icon: envelope
   - display:
       header: false
     link: https://uk.linkedin.com/in/cchiappini
