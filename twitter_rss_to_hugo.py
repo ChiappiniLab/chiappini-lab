@@ -5,7 +5,7 @@ from datetime import datetime
 
 # 🔁 Replace this with your RSS feed from rss.app
 FEED_URL = 'https://rss.app/feeds/E9RaLLqffEhiqsbk.xml'
-OUTPUT_DIR = 'content/news/'  # or content/post/
+OUTPUT_DIR = 'content/post/'  # or content/post/
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
