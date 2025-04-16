@@ -10,7 +10,7 @@ sections:
       title: |
         Chiappini Lab
       image:
-        filename: welcome.jpg
+        filename: cell on nanoneedles small.jpeg
       text: |
         <br>
         
