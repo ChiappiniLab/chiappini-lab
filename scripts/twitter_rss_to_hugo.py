@@ -3,7 +3,7 @@ import os
 import re
 from datetime import datetime
 
-FEED_URL = 'https://rss.app/feeds/i91DcxikincgiKad.xml'
+FEED_URL = 'https://rss.app/feeds/E9RaLLqffEhiqsbk.xml'
 OUTPUT_DIR = 'content/post/'
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
