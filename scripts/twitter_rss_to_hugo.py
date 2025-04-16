@@ -1,35 +1,39 @@
-import feedparser
 import os
 import re
+import requests
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
 FEED_URL = 'https://rss.app/feeds/E9RaLLqffEhiqsbk.xml'
-OUTPUT_DIR = 'content/post/'
+OUTPUT_DIR = 'content/news/'  # Change this to match your structure
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def slugify(text):
     return re.sub(r'[^a-zA-Z0-9]+', '-', text.lower()).strip('-')
 
-feed = feedparser.parse(FEED_URL)
+response = requests.get(FEED_URL)
+root = ET.fromstring(response.content)
 
-for entry in feed.entries:
-    title = entry.title or "Untitled Post"
-    slug = slugify(title)[:50]
-    date = entry.published or datetime.now().isoformat()
-    link = entry.link
-    summary = entry.summary or ""
+for item in root.findall(".//item"):
+    description = item.find('description').text or ''
+    pub_date = item.find('pubDate').text or datetime.now().isoformat()
+    link = item.find('link').text or ''
+
+    # Use part of the description or link as the title/slug
+    # (Fallback title to avoid duplication issues)
+    fallback_title = "update-" + slugify(link)[:10] if link else "untitled"
+    slug = fallback_title
 
     filename = os.path.join(OUTPUT_DIR, f"{slug}.md")
 
     if not os.path.exists(filename):
-        with open(filename, "w") as f:
+        with open(filename, 'w') as f:
             f.write(f"---\n")
-            f.write(f"title: \"{title}\"\n")
-            f.write(f"date: {date}\n")
-            f.write(f"summary: \"{summary.strip()}\"\n")
+            f.write(f"title: \"Lab Update\"\n")  # Generic title
+            f.write(f"date: {pub_date}\n")
             f.write(f"---\n\n")
-            f.write(f"[View on Twitter]({link})\n")
+            f.write(f"{description.strip()}\n")
         print(f"✅ Created: {filename}")
     else:
-        print(f"⚠️ Skipped (already exists): {filename}")
+        print(f"⚠️ Already exists: {filename}")
