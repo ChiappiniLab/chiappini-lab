@@ -17,8 +17,8 @@ social:
   - display:
       header: false
     link: https://uk.linkedin.com/in/cchiappini
-    icon_pack: ai
-    icon: at-symbol
+    icon_pack: fas
+    icon: linkedin
 organizations:
   - name: King's College London
     url: https://www.kcl.ac.uk/dentistry
