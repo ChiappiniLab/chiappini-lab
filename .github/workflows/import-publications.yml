@@ -6,6 +6,7 @@ permissions:
   contents: write
   pull-requests: write
 
+
 # Run workflow when a `.bib` file is added or updated in the `data/` folder
 on:
   push:
